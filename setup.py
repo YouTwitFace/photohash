@@ -18,7 +18,7 @@ setup(
     long_description=open('README.rst').read(),
     name='Photohash',
     packages=find_packages(),
-    url='https://github.com/bunchesofdonald/photohash',
+    url='https://github.com/YouTwitFace/photohash',
     version='0.4.1',
     install_requires=[
         'Pillow>=2.1.0',
